@@ -1,0 +1,30 @@
+C:\Users\Aspire V17 Nitro\Desktop\c# deneme\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.csprojAssemblyReference.cache
+C:\Users\Aspire V17 Nitro\Desktop\c# deneme\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp_Projesi_1.Form1.resources
+C:\Users\Aspire V17 Nitro\Desktop\c# deneme\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp_Projesi_1.Properties.Resources.resources
+C:\Users\Aspire V17 Nitro\Desktop\c# deneme\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.csproj.GenerateResource.cache
+C:\Users\Aspire V17 Nitro\Desktop\c# deneme\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.csproj.CoreCompileInputs.cache
+C:\Users\Aspire V17 Nitro\Desktop\c# deneme\Ndp Projesi 1\Ndp Projesi 1\bin\Debug\Ndp Projesi 1.exe.config
+C:\Users\Aspire V17 Nitro\Desktop\c# deneme\Ndp Projesi 1\Ndp Projesi 1\bin\Debug\Ndp Projesi 1.exe
+C:\Users\Aspire V17 Nitro\Desktop\c# deneme\Ndp Projesi 1\Ndp Projesi 1\bin\Debug\Ndp Projesi 1.pdb
+C:\Users\Aspire V17 Nitro\Desktop\c# deneme\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.exe
+C:\Users\Aspire V17 Nitro\Desktop\c# deneme\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.pdb
+C:\Users\Ayberk\Desktop\Ndp Projesi 1\Ndp Projesi 1\bin\Debug\Ndp Projesi 1.exe.config
+C:\Users\Ayberk\Desktop\Ndp Projesi 1\Ndp Projesi 1\bin\Debug\Ndp Projesi 1.exe
+C:\Users\Ayberk\Desktop\Ndp Projesi 1\Ndp Projesi 1\bin\Debug\Ndp Projesi 1.pdb
+C:\Users\Ayberk\Desktop\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.csprojAssemblyReference.cache
+C:\Users\Ayberk\Desktop\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp_Projesi_1.Form1.resources
+C:\Users\Ayberk\Desktop\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp_Projesi_1.Properties.Resources.resources
+C:\Users\Ayberk\Desktop\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.csproj.GenerateResource.cache
+C:\Users\Ayberk\Desktop\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.csproj.CoreCompileInputs.cache
+C:\Users\Ayberk\Desktop\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.exe
+C:\Users\Ayberk\Desktop\Ndp Projesi 1\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.pdb
+C:\Users\Aspire V17 Nitro\Desktop\Ndp Projesi_new\Ndp Projesi 1\bin\Debug\Ndp Projesi 1.exe.config
+C:\Users\Aspire V17 Nitro\Desktop\Ndp Projesi_new\Ndp Projesi 1\bin\Debug\Ndp Projesi 1.exe
+C:\Users\Aspire V17 Nitro\Desktop\Ndp Projesi_new\Ndp Projesi 1\bin\Debug\Ndp Projesi 1.pdb
+C:\Users\Aspire V17 Nitro\Desktop\Ndp Projesi_new\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.csprojAssemblyReference.cache
+C:\Users\Aspire V17 Nitro\Desktop\Ndp Projesi_new\Ndp Projesi 1\obj\Debug\Ndp_Projesi_1.Form1.resources
+C:\Users\Aspire V17 Nitro\Desktop\Ndp Projesi_new\Ndp Projesi 1\obj\Debug\Ndp_Projesi_1.Properties.Resources.resources
+C:\Users\Aspire V17 Nitro\Desktop\Ndp Projesi_new\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.csproj.GenerateResource.cache
+C:\Users\Aspire V17 Nitro\Desktop\Ndp Projesi_new\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.csproj.CoreCompileInputs.cache
+C:\Users\Aspire V17 Nitro\Desktop\Ndp Projesi_new\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.exe
+C:\Users\Aspire V17 Nitro\Desktop\Ndp Projesi_new\Ndp Projesi 1\obj\Debug\Ndp Projesi 1.pdb
